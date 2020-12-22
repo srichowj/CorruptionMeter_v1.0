@@ -29,4 +29,12 @@ public class MainController {
         response.setMessage("Update is successfull");
         return new ResponseEntity<>(response, HttpStatus.OK);
     }
+    @GetMapping ("/api/HealthApi")
+    public ResponseEntity<GenericResponse> getDepartmentsList(OfficerDetailsRequest request){
+        //officerDetailsServiceImpl.updateOfficerDetails(request);
+
+        GenericResponse response = new GenericResponse();
+        response.setMessage("getDepartmentsList is under construction :)");
+        return new ResponseEntity<>(response, HttpStatus.OK);
+    }
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CorruptionMeter/CorruptionMeter.iml" filepath="$PROJECT_DIR$/CorruptionMeter/CorruptionMeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring localrepo.iml" filepath="$PROJECT_DIR$/.idea/spring localrepo.iml" />
+    </modules>
+  </component>
+</project>
